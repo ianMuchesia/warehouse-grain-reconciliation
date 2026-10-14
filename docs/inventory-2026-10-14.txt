@@ -1,0 +1,47 @@
+== members_v3.csv
+bytes:  427921437
+sha256: 5bacf7d28ee97b7f017feca8650f84169cfcd97bad8995e81344c41e31989edd
+ends with newline: yes
+last line fields: 6
+data rows: 6769473
+rows with 6 fields: 6769473
+col 6: min 20040326, max 20170429, empty 0
+
+== transactions.csv
+bytes:  1729298376
+sha256: 537c269140742fc74b28ba83941dff7b0ca00974dd48b80994948b8917adddef
+ends with newline: yes
+last line fields: 9
+data rows: 21547746
+rows with 9 fields: 21547746
+col 7: min 20150101, max 20170228, empty 0
+col 8: min 19700101, max 20170331, empty 0
+
+== transactions_v2.csv
+bytes:  115394513
+sha256: 1d3015e32ed1661e9cfe813a9779b1b33e9d1d0829f1203633440045d4c6ea36
+ends with newline: yes
+last line fields: 9
+data rows: 1431009
+rows with 9 fields: 1431009
+col 7: min 20150101, max 20170331, empty 0
+col 8: min 20160419, max 20361015, empty 0
+
+== user_logs.csv
+bytes:  30514081415
+sha256: 32d83038c86f7974b8f346bb7da1876a186248aa42c74a432517e70cf514d729
+ends with newline: yes
+last line fields: 9
+data rows: 392106543
+rows with 9 fields: 392106543
+col 2: min 20150101, max 20170228, empty 0
+
+== user_logs_v2.csv
+bytes:  1431465728
+sha256: 0188c4111de1c4fa4dc3fb6253542f14e142e4d05bbf2f3a4c1c345f0014bdce
+ends with newline: yes
+last line fields: 9
+data rows: 18396362
+rows with 9 fields: 18396362
+col 2: min 20170301, max 20170331, empty 0
+
