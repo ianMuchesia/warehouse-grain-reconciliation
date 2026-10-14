@@ -5,3 +5,6 @@ __pycache__/
 
 
 venv/
+# Data never enters git (only the README describing it)
+data/*
+!data/README.md
